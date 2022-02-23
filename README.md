@@ -24,4 +24,4 @@
   <a href = "mailto:gabrieldinisdecamargo@hotmail.com"><img src="https://img.shields.io/badge/-Email-%239644f4?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-
+![Snake animation](https://github.com/dinismaker/dinismaker/blob/output/github-contribution-grid-snake.svg)
