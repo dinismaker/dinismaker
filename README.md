@@ -25,3 +25,4 @@
 </div>
 
 ![Snake animation](https://github.com/dinismaker/dinismaker/blob/output/github-contribution-grid-snake.svg)
+
