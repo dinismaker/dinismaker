@@ -1,6 +1,6 @@
 # Olá, sou o Gabriel Dinis
 
--🔧 I’m currently working on computer technician ;
+- 🔧 I’m currently working on computer technician ;
 -     //Atualmente trabalho como técnico em informática;
 
 - 🌱 I'm learning to develop front-end;
