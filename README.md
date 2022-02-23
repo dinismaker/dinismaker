@@ -2,6 +2,8 @@
   <h1 align="center">Olá, sou o Gabriel Dinis</h1>
 </div>
 
+###
+
 - 🔧 I’m currently working on computer technician;
 -     //Atualmente trabalho como técnico em informática;
 
