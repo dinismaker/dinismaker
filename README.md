@@ -1,10 +1,10 @@
 # Olá, sou o Gabriel Dinis
 
 - 🔧 I’m currently working on computer technician ;
--     //Atualmente trabalho como técnico em informática;
+     //Atualmente trabalho como técnico em informática;
 
 - 🌱 I'm learning to develop front-end;
--     //Estou aprendendo a desenvolver front-end;
+     //Estou aprendendo a desenvolver front-end;
 
 
 - 👯 I’m looking to collaborate on ...
