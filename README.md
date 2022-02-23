@@ -4,7 +4,7 @@
 -     //Atualmente trabalho como técnico em informática;
 
 
-- 🌱 I'm learning to develop front-end;
+- 🖍 I'm learning to develop front-end;
 -     //Estou aprendendo a desenvolver front-end;
 
 <div>
