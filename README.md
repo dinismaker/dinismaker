@@ -3,8 +3,6 @@
 - 🔧 I’m currently working on computer technician;
 -     //Atualmente trabalho como técnico em informática;
 
-- 🎓 I have a degree in Systems Analysis and Development;
--     //Sou formado em Análise e Desenvolvimento de Sistemas;
 
 - 🌱 I'm learning to develop front-end;
 -     //Estou aprendendo a desenvolver front-end;
