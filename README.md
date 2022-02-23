@@ -3,10 +3,8 @@
 - 🔧 I’m currently working on computer technician;
 -     //Atualmente trabalho como técnico em informática;
 
-
 - 🖍 I'm learning to develop front-end;
 -     //Estou aprendendo a desenvolver front-end;
-#
 
 <div>
     <a href="https://github.com/dinismaker">
@@ -18,10 +16,10 @@
   <img align="center" alt="Dinis-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Dinis-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 </div>
-  
+    
+##  
+    
 <div style="display: inline_block"><br>
   <a href="https://instagram.com/dinismaker" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%239644f4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrieldinisdecamargo@hotmail.com"><img src="https://img.shields.io/badge/-Email-%239644f4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-  
 </div>
