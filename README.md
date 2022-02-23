@@ -11,3 +11,8 @@
 
 
 --//https://img.shields.io/badge/-Instagram-%23c1008a?style=for-the-badge&logo=instagram&logoColor=white
+
+<div style="display: inline_block"><br>
+  <a href="https://instagram.com/dinismaker" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23c1008a?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+</div>
