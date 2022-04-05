@@ -4,11 +4,8 @@
 
 ###
 
-- 🔧 I’m currently working on computer technician;
--     //Atualmente trabalho como técnico em informática;
-
-- 🖍 I'm learning to develop front-end;
--     //Estou aprendendo a desenvolver front-end;
+- 🖍 I'm currently studying to work in the front-end developer area;
+-     //Atualmente estou estudando para trabalhar na área de desenvolvedor front-end;
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://instagram.com/dinismaker" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%239644f4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
